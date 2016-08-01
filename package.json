@@ -1,0 +1,19 @@
+{
+  "name": "turquoise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenfox-velox/Turquoise_gitpractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greenfox-velox/Turquoise_gitpractice/issues"
+  },
+  "homepage": "https://github.com/greenfox-velox/Turquoise_gitpractice#readme"
+}
