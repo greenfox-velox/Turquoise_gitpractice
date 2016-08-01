@@ -1,7 +1,7 @@
 'use strict';
 
-function count() {
-  console.log('35');
+function count(a) {
+  console.log(a);
 }
 
-count();
+count('35');
