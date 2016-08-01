@@ -1,7 +1,7 @@
 'use strict'
 
-let greet = function(textToPrint) {
-  console.log(textToPrint);
+let greet = function(textToPrint, textToPrint2) {
+  console.log(textToPrint, textToPrint2);
 };
 
-greet('Greetings!');
+greet('Greetings!', 'masodik');
