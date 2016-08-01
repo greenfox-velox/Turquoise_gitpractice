@@ -4,4 +4,4 @@ function cheer (name) {
   console.log(name);
 }
 
-cheer('turkiz');
+cheer('english');
