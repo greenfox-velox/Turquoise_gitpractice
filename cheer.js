@@ -1,5 +1,5 @@
 'use strict';
 
-let cheer = (function() {
-  console.log('turkisz!');
+let cheer = (function(name) {
+  console.log(name);
 })();
