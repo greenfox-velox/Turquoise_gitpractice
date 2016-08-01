@@ -4,4 +4,4 @@ let greet = function(textToPrint) {
   console.log(textToPrint);
 };
 
-greet('Földváry Péter');
+greet('Greetings!');
