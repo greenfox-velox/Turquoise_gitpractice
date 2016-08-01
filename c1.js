@@ -1,7 +1,7 @@
 'use strict';
 
-function cheer () {
-  console.log('Turquoise_Productions');
+function cheer (name) {
+  console.log(name);
 }
 
 count();
