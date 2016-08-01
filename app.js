@@ -5,3 +5,9 @@ let cheer = (function() {
 })();
 
 cheer();
+
+function count() {
+  console.log('35');
+}
+
+count();
