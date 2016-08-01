@@ -1,13 +1,21 @@
 {
+<<<<<<< HEAD
   "name": "turquoise_git_practice",
   "version": "1.0.0",
   "description": "git practice",
   "main": "server.js",
+=======
+  "name": "turquoise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+>>>>>>> 8bc17560b5b8caa447d79df7d4fb0e00c63a8895
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/greenfox-velox/turquoise_gitpractice.git"
   },
   "keywords": [
@@ -38,4 +46,14 @@
     "sinon": "^1.17.4",
     "tape": "^4.6.0"
   }
+=======
+    "url": "git+https://github.com/greenfox-velox/Turquoise_gitpractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greenfox-velox/Turquoise_gitpractice/issues"
+  },
+  "homepage": "https://github.com/greenfox-velox/Turquoise_gitpractice#readme"
+>>>>>>> 8bc17560b5b8caa447d79df7d4fb0e00c63a8895
 }
