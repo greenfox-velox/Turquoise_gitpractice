@@ -1,7 +1,7 @@
 'use strict';
 
-function cheer () {
-  console.log('turkish');
+function cheer (name) {
+  console.log(name);
 }
 
-cheer();
+cheer('turkiz');
