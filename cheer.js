@@ -1,5 +1,5 @@
 'use strict';
 
-let cheer = (function(first_name, last_name) {
-  console.log(first_name, last_name);
-})();
+let cheer = (function(inputText) {
+  console.log('Cheer for the ' + inputText);
+})('probaszoveg');
