@@ -4,4 +4,4 @@ function count(a) {
   console.log(a);
 }
 
-count('35');
+count('10');
