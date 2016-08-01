@@ -1,7 +1,7 @@
 'use strict';
 
-function cheer (name) {
-  console.log(name);
+function cheer () {
+  console.log('english');
 }
 
-count();
+cheer();
